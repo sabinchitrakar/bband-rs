@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/immortalinfidel/bband-rs.svg?branch=master)](https://travis-ci.com/immortalinfidel/bband-rs)
+
 # Bollinger Bands (BBand)
 ```
 use ta_common::traits::Indicator;
